@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(135deg, #22356f 0%, #333135 100%);
+  font-family: Arial, sans-serif; 
+  margin: 0;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #ffffff;
+  margin-top: 50px;
+}
+
+.col-md-6 h2 {
+  color: #ffffff;
+}
+.col-md-6 h4 {
+  color: #ffdd57;
+}
+.col-md-6 p, .col-md-6 ul {
+  color: #dddddd;
+}
+.col-md-6 img-fluid {
+  border-radius: 10px;
+  box-shadow: 10px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
